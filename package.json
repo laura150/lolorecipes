@@ -1,0 +1,52 @@
+{
+  "name": "lolorecipes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^28.0.0",
+    "@ckeditor/ckeditor5-react": "^3.0.2",
+    "@ckeditor/ckeditor5-upload": "^28.0.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "alertifyjs": "^1.13.1",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.21.1",
+    "chart.js": "^2.9.4",
+    "classnames": "^2.3.1",
+    "dayjs": "^1.10.4",
+    "google-map-react": "^2.1.10",
+    "highcharts": "^9.0.1",
+    "highcharts-react-official": "^3.0.0",
+    "laravel-echo": "^1.11.0",
+    "next": "11.1.2",
+    "pusher-js": "^7.0.3",
+    "react": "17.0.2",
+    "react-chartjs-2": "^2.11.1",
+    "react-dom": "17.0.2",
+    "react-pusher": "^0.2.0",
+    "react-redux": "^7.2.3",
+    "react-responsive": "^9.0.0-beta.3",
+    "recharts": "^2.0.9",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "sass": "^1.32.8"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16"
+  }
+}
